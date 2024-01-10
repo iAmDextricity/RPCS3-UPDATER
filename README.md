@@ -7,7 +7,7 @@ This RPCS3 Updater provides a simple solution for updating all of your RPCS3 gam
 - Direct Download: No need to rely on external sources.
 
 ## Download Now
-[Download RPCS3 Updater]([https://github.com/iAmDextricity/RPCS3-UPDATER/releases/download/1.0/RPCS3-UPDATER.zip](https://github.com/iAmDextricity/RPCS3-UPDATER/releases/)
+[Download RPCS3 Updater][https://github.com/iAmDextricity/RPCS3-UPDATER/releases/download/1.0/RPCS3-UPDATER.zip](https://github.com/iAmDextricity/RPCS3-UPDATER/releases/)
 
 ## Screenshot
 ![RPCS3 Updater Screenshot](https://raw.githubusercontent.com/iAmDextricity/RPCS3-UPDATER/main/ss.png)
